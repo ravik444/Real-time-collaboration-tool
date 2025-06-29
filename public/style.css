@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f0f0;
+}
+canvas {
+  border: 2px solid #000;
+  display: block;
+  margin: 20px auto;
+  background: #fff;
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius:30px;
+}
+label {
+  margin: 10px;
+  font-size: 16px;
+}
+input[type="color"], input[type="range"] {
+  margin-left: 5px;
+}
+button {
+  margin: 5px;
+}
+.eraser-cursor {
+  cursor: url('https://cdn-icons-png.flaticon.com/128/686/686589.png') 8 8, crosshair;
+}
+.eraser-cursor {
+  cursor: crosshair; /* Clean and small */
+}
+
+
+
+
+
